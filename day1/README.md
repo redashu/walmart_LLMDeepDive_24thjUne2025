@@ -55,3 +55,8 @@ Subword tokenization breaks words into units smaller than words but larger than 
 - **Byte-level BPE:**
     - Operates at the UTF-8 byte level instead of characters.
     - Used in GPT-2/GPT-3 for better handling of emojis, symbols, and multilingual content.
+
+## LLM labs on cloud and hosted ENV 
+
+<img src="lab1.png">
+
