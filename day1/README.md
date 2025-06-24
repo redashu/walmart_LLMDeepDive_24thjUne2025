@@ -56,7 +56,19 @@ Subword tokenization breaks words into units smaller than words but larger than 
     - Operates at the UTF-8 byte level instead of characters.
     - Used in GPT-2/GPT-3 for better handling of emojis, symbols, and multilingual content.
 
-## LLM labs on cloud and hosted ENV 
+## LLM Labs on Cloud and Hosted Environments
 
-<img src="lab1.png">
+![LLM Lab Environment](lab1.png)
+
+## OpenAI Models Fine-Tuning
+
+- OpenAI API
+- OpenAI Playground
+
+![OpenAI Fine-Tuning](lab2.png)
+
+
+### Interacting with GPT model using openai API 
+
+<img src="lab3.png">
 
