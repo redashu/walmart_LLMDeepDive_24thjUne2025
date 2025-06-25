@@ -1,0 +1,50 @@
+Store ID: 1001 | Employee: Amanda Lewis | Position: Store Manager | Start Date: 2015-03-10 | Score: 4.8 | Notes: Strong leadership and operations skills
+Store ID: 1002 | Employee: Sarah Mitchell | Position: Floor Manager | Start Date: 2018-06-10 | Score: 4.7 | Notes: Exceeds sales goals consistently
+Store ID: 1003 | Employee: Robert Davis | Position: Cashier | Start Date: 2021-01-20 | Score: 3.2 | Notes: Needs improvement in customer interaction
+Store ID: 1004 | Employee: Kevin Zhang | Position: Inventory Lead | Start Date: 2019-09-12 | Score: 4.3 | Notes: Maintains stock levels efficiently
+Store ID: 1005 | Employee: Lisa Green | Position: Department Head - Electronics | Start Date: 2017-02-17 | Score: 4.6 | Notes: Boosted electronics department revenue by 10%
+Store ID: 1006 | Employee: Jason Patel | Position: Store Manager | Start Date: 2014-11-01 | Score: 4.9 | Notes: Outstanding leadership in customer satisfaction programs
+Store ID: 1007 | Employee: Rachel Kim | Position: Floor Manager | Start Date: 2020-05-30 | Score: 4.4 | Notes: Positive team motivator, improved floor efficiency
+Store ID: 1008 | Employee: Marcus Allen | Position: Security Officer | Start Date: 2016-08-15 | Score: 4.2 | Notes: Reliable incident response and safety audits
+Store ID: 1009 | Employee: Emily Nguyen | Position: Pharmacy Technician | Start Date: 2019-03-22 | Score: 4.5 | Notes: Excellent prescription accuracy
+Store ID: 1010 | Employee: Thomas Brown | Position: Customer Service Rep | Start Date: 2022-01-03 | Score: 3.9 | Notes: Good feedback handling, needs speed improvement
+Store ID: 1011 | Employee: Alice Johnson | Position: Cashier | Start Date: 2020-10-08 | Score: 4.1 | Notes: Quick and friendly service
+Store ID: 1012 | Employee: Mike O'Reilly | Position: Assistant Manager | Start Date: 2016-07-25 | Score: 4.6 | Notes: Excellent in logistics and staff scheduling
+Store ID: 1013 | Employee: Tina Moore | Position: Department Head - Clothing | Start Date: 2018-04-12 | Score: 4.3 | Notes: Improved clothing sales during seasonal promotions
+Store ID: 1014 | Employee: George Thompson | Position: Janitor | Start Date: 2017-06-18 | Score: 4.0 | Notes: Keeps store spotless, punctual and reliable
+Store ID: 1015 | Employee: Laura Singh | Position: Floor Manager | Start Date: 2019-11-11 | Score: 4.5 | Notes: Known for organizing efficient floor layouts
+Store ID: 1016 | Employee: Henry Scott | Position: IT Support | Start Date: 2015-01-30 | Score: 4.7 | Notes: Minimizes downtime with proactive maintenance
+Store ID: 1017 | Employee: Olivia Turner | Position: Cashier | Start Date: 2021-04-02 | Score: 3.8 | Notes: Enthusiastic but needs training in POS system
+Store ID: 1018 | Employee: Jonathan Park | Position: Loss Prevention Officer | Start Date: 2016-09-14 | Score: 4.4 | Notes: Reduced shrinkage by 12% YoY
+Store ID: 1019 | Employee: Priya Desai | Position: HR Associate | Start Date: 2018-12-19 | Score: 4.6 | Notes: Excellent at conflict resolution
+Store ID: 1020 | Employee: Carlos Rivera | Position: Greeter | Start Date: 2013-05-21 | Score: 4.2 | Notes: Friendly presence at store entry
+Store ID: 1021 | Employee: Emily Zhao | Position: Floor Manager | Start Date: 2017-08-05 | Score: 4.5 | Notes: Improved shift handover procedures
+Store ID: 1022 | Employee: David White | Position: Assistant Manager | Start Date: 2015-11-15 | Score: 4.8 | Notes: Led store remodel project efficiently
+Store ID: 1023 | Employee: Nia Brooks | Position: Cashier | Start Date: 2019-02-08 | Score: 4.0 | Notes: Friendly and accurate billing
+Store ID: 1024 | Employee: Ethan Black | Position: Inventory Lead | Start Date: 2020-06-17 | Score: 4.1 | Notes: Keeps warehouse well-organized
+Store ID: 1025 | Employee: Chloe Martin | Position: Department Head - Grocery | Start Date: 2016-10-28 | Score: 4.6 | Notes: Improved stocking process and layout
+Store ID: 1026 | Employee: Aaron Miller | Position: Store Manager | Start Date: 2013-04-04 | Score: 4.9 | Notes: Record-breaking quarterly sales
+Store ID: 1027 | Employee: Jasmine Wright | Position: Cashier | Start Date: 2022-08-15 | Score: 3.7 | Notes: Friendly but sometimes slow at checkout
+Store ID: 1028 | Employee: Brandon Lee | Position: IT Support | Start Date: 2018-05-30 | Score: 4.5 | Notes: Built automation for POS troubleshooting
+Store ID: 1029 | Employee: Sophia Kim | Position: Floor Manager | Start Date: 2017-09-19 | Score: 4.4 | Notes: Leads training for new floor associates
+Store ID: 1030 | Employee: Zachary Davis | Position: Customer Service Rep | Start Date: 2021-03-23 | Score: 3.9 | Notes: Courteous but needs improvement in returns policy knowledge
+Store ID: 1031 | Employee: Mia Carter | Position: Pharmacy Technician | Start Date: 2019-07-01 | Score: 4.5 | Notes: Efficient prescription processing
+Store ID: 1032 | Employee: Logan Patel | Position: Assistant Manager | Start Date: 2016-04-20 | Score: 4.7 | Notes: Developed team scheduling optimization
+Store ID: 1033 | Employee: Grace Hill | Position: Janitor | Start Date: 2020-02-12 | Score: 4.1 | Notes: Reliable and keeps cleaning records accurately
+Store ID: 1034 | Employee: Dylan Walker | Position: Department Head - Toys | Start Date: 2018-10-09 | Score: 4.3 | Notes: Designed engaging product demos
+Store ID: 1035 | Employee: Leah Adams | Position: Cashier | Start Date: 2019-11-27 | Score: 4.0 | Notes: Positive attitude, always on time
+Store ID: 1036 | Employee: Ryan Nguyen | Position: Floor Manager | Start Date: 2020-07-15 | Score: 4.2 | Notes: Manages shift transitions effectively
+Store ID: 1037 | Employee: Zoe Brown | Position: Greeter | Start Date: 2014-03-10 | Score: 4.3 | Notes: Welcoming personality, handles opening shifts
+Store ID: 1038 | Employee: Lucas Wright | Position: Security Officer | Start Date: 2015-08-12 | Score: 4.4 | Notes: Trained backup response team
+Store ID: 1039 | Employee: Avery Scott | Position: Pharmacy Technician | Start Date: 2021-09-02 | Score: 4.0 | Notes: Learning quickly, responsive to feedback
+Store ID: 1040 | Employee: Ella Thompson | Position: HR Associate | Start Date: 2017-12-04 | Score: 4.6 | Notes: Spearheaded diversity hiring initiative
+Store ID: 1041 | Employee: Nathaniel Evans | Position: Floor Manager | Start Date: 2018-02-20 | Score: 4.5 | Notes: Known for solving on-floor conflicts efficiently
+Store ID: 1042 | Employee: Hannah Green | Position: Assistant Manager | Start Date: 2016-06-14 | Score: 4.7 | Notes: Supports floor teams and logistics ops
+Store ID: 1043 | Employee: Ian Murphy | Position: Department Head - Furniture | Start Date: 2019-08-21 | Score: 4.4 | Notes: Designed new floor layouts that improved sales
+Store ID: 1044 | Employee: Nora Jenkins | Position: Store Manager | Start Date: 2012-11-30 | Score: 4.9 | Notes: Highest customer satisfaction rating in the region
+Store ID: 1045 | Employee: Caleb Brooks | Position: Inventory Lead | Start Date: 2015-05-05 | Score: 4.3 | Notes: Conducts monthly audits with zero errors
+Store ID: 1046 | Employee: Stella Ross | Position: Floor Manager | Start Date: 2020-03-18 | Score: 4.2 | Notes: Runs smooth operations during weekend rush
+Store ID: 1047 | Employee: Liam Allen | Position: Cashier | Start Date: 2022-05-22 | Score: 3.6 | Notes: Friendly but needs speed training
+Store ID: 1048 | Employee: Ruby Howard | Position: Janitor | Start Date: 2018-01-17 | Score: 4.1 | Notes: Very efficient during night shifts
+Store ID: 1049 | Employee: Elijah Carter | Position: Customer Service Rep | Start Date: 2021-11-10 | Score: 4.0 | Notes: Handles refunds and escalations well
+Store ID: 1050 | Employee: Aria Simmons | Position: Department Head - Pharmacy | Start Date: 2015-09-03 | Score: 4.8 | Notes: Doubled prescription throughput in two years

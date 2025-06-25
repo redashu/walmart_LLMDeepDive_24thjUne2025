@@ -15,3 +15,7 @@
 ## PEFT based fine tuning 
 
 <img src="ft2.png">
+
+## RAG basic 
+
+<img src="ft3.png">
