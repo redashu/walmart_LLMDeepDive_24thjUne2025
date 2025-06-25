@@ -11,3 +11,7 @@
 ### Fine tuning openai based Model 
 
 <img src="ft1.png">
+
+## PEFT based fine tuning 
+
+<img src="ft2.png">
