@@ -7,3 +7,8 @@
 ### RAG revision 
 
 <img src="rev2.png">
+
+### LLM loading python modules explation 
+
+<img src="llm1.png">
+
