@@ -24,3 +24,10 @@
 
 <img src="rev6.png">
 
+## AI agents and agentic AI workflow understanding 
+
+<img src="ai1.png">
+
+### To create Agentic AI workflow --options 
+
+<img src="ai2.png">
